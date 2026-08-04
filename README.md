@@ -14,12 +14,7 @@ Implementing Machine Learning and Deep Learning algorithms completely from scrat
 - [x] 01. Linear Regression
 - [x] 02. Logistic Regression
 - [x] 03. Neural Networks
-- [ ] 04. Backpropagation
-- [ ] 05. Regularization
-- [ ] 06. Optimizers
-- [ ] 07. Convolutional Neural Networks (CNNs)
-- [ ] 08. Recurrent Neural Networks (RNNs)
-- [ ] 09. Transformers
+- [x] 04. Backpropagation
 
 ## Technologies
 

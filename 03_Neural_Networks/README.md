@@ -18,35 +18,35 @@ Implementation of a simple Artificial Neural Network from scratch using only Num
 
 ### Weighted Sum
 
-\[
+$$
 z = Wx + b
-\]
+$$
 
 ### Sigmoid Activation
 
-\[
+$$
 \sigma(z)=\frac{1}{1+e^{-z}}
-\]
+$$
 
 ### Hidden Layer
 
-\[
+$$
 Z_1=XW_1+b_1
-\]
+$$
 
-\[
+$$
 A_1=\sigma(Z_1)
-\]
+$$
 
 ### Output Layer
 
-\[
+$$
 Z_2=A_1W_2+b_2
-\]
+$$
 
-\[
+$$
 A_2=\sigma(Z_2)
-\]
+$$
 
 ## Files
 
