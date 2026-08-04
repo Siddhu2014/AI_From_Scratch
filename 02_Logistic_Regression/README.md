@@ -18,55 +18,31 @@ Implementation of **Binary Logistic Regression** from scratch using only NumPy.
 
 ### Linear Model
 
-$$
-z=wx+b
-$$
+$$z=wx+b$$
 
 ### Sigmoid Function
 
-$$
-\sigma(z)=\frac1{1+e^{-z}}
-$$
+$$\sigma(z)=\frac1{1+e^{-z}}$$
 
 ### Binary Cross-Entropy Loss
 
-$$
-L
-=
--\left(
-y\log(p)
-+
-(1-y)\log(1-p)
-\right)
-$$
+$$L=-\left(y\log(p)+(1-y)\log(1-p)\right)$$
 
 ### Gradients
 
 Weight
 
-$$
-\frac{\partial L}{\partial w}
-=
-\frac1n\sum(p-y)x
-$$
+$$\frac{\partial L}{\partial w}=\frac1n\sum(p-y)x$$
 
 Bias
 
-$$
-\frac{\partial L}{\partial b}
-=
-\frac1n\sum(p-y)
-$$
+$$\frac{\partial L}{\partial b}=\frac1n\sum(p-y)$$
 
 ### Gradient Descent
 
-$$
-w=w-\alpha\frac{\partial L}{\partial w}
-$$
+$$w=w-\alpha\frac{\partial L}{\partial w}$$
 
-$$
-b=b-\alpha\frac{\partial L}{\partial b}
-$$
+$$b=b-\alpha\frac{\partial L}{\partial b}$$
 
 ## Files
 

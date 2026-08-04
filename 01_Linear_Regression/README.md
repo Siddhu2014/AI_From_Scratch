@@ -18,43 +18,27 @@ Implementation of **Simple Linear Regression** from scratch using only NumPy.
 
 ### Linear Model
 
-$$
-\hat{y}=wx+b
-$$
+$$\hat{y}=wx+b$$
 
 ### Mean Squared Error
 
-$$
-MSE=\frac1n\sum(\hat y-y)^2
-$$
+$$MSE=\frac1n\sum(\hat y-y)^2$$
 
 ### Gradients
 
 Weight
 
-$$
-\frac{\partial L}{\partial w}
-=
-\frac2n\sum(\hat y-y)x
-$$
+$$\frac{\partial L}{\partial w}=\frac2n\sum(\hat y-y)x$$
 
 Bias
 
-$$
-\frac{\partial L}{\partial b}
-=
-\frac2n\sum(\hat y-y)
-$$
+$$\frac{\partial L}{\partial b}=\frac2n\sum(\hat y-y)$$
 
 ### Gradient Descent
 
-$$
-w=w-\alpha\frac{\partial L}{\partial w}
-$$
+$$w=w-\alpha\frac{\partial L}{\partial w}$$
 
-$$
-b=b-\alpha\frac{\partial L}{\partial b}
-$$
+$$b=b-\alpha\frac{\partial L}{\partial b}$$
 
 ## Files
 
