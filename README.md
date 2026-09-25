@@ -20,7 +20,6 @@ Implementing Machine Learning and Deep Learning algorithms from first principles
 
 - Python
 - NumPy
-- PyTorch
 - Matplotlib
 - Jupyter Notebook
 
