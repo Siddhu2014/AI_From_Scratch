@@ -15,14 +15,6 @@ Implementing Machine Learning and Deep Learning algorithms from first principles
 - [x] 02. Logistic Regression
 - [x] 03. Neural Networks
 - [x] 04. Backpropagation
-- [x] 07. Convolutional Neural Networks
-- [ ] Sequence Models
-- [ ] RNNs / LSTMs / GRUs
-- [ ] Attention
-- [ ] Transformers
-- [ ] Embeddings and Language Models
-- [ ] Multimodal AI
-- [ ] Agentic AI
 
 ## Technologies
 
