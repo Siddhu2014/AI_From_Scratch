@@ -1,11 +1,11 @@
 # AI From Scratch
 
-Implementing Machine Learning and Deep Learning algorithms completely from scratch using **NumPy**, focusing on understanding the mathematics before using high-level libraries.
+Implementing Machine Learning and Deep Learning algorithms from first principles, with an emphasis on understanding the mathematics and concepts before relying on high-level abstractions.
 
 ## Goals
 
 - Learn the mathematics behind every algorithm
-- Implement every algorithm from scratch
+- Implement algorithms from scratch where useful for understanding
 - Build intuition before using machine learning frameworks
 - Create a complete educational reference for AI
 
@@ -15,11 +15,20 @@ Implementing Machine Learning and Deep Learning algorithms completely from scrat
 - [x] 02. Logistic Regression
 - [x] 03. Neural Networks
 - [x] 04. Backpropagation
+- [x] 07. Convolutional Neural Networks
+- [ ] Sequence Models
+- [ ] RNNs / LSTMs / GRUs
+- [ ] Attention
+- [ ] Transformers
+- [ ] Embeddings and Language Models
+- [ ] Multimodal AI
+- [ ] Agentic AI
 
 ## Technologies
 
 - Python
 - NumPy
+- PyTorch
 - Matplotlib
 - Jupyter Notebook
 
